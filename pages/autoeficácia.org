@@ -1,19 +1,24 @@
 #+TITLE: AutoEficácia
 
-** Há 4 pilares de Autoeficácia
-*** Resultado de performance
-**** Experiências positivas e negativas podem influenciar a performance de uma pessoa. Sucessos anteriores tendem a promover um sentimento de competência.
+** H�
+** /*Há 4 pilares de Autoeficácia*
+*** *Resultado de performance*
+* Experiências positivas e negativas podem influenciar a performance de uma pessoa. Sucessos anteriores tendem a promover um sentimento de competência.
 Ex.: 
 1. Não ando de bicicleta ou por que nunca tentei ou por que cai quando pequeno.
 2. Dentro do curso. Um professor com dificuldade de trabalhar com determinado grupo de alunos. Não dou mais esse grupo para essa pessoa. E esse professor tambem pode não querer mais dar aula para esse tipo de grupo.
 Como resolver?
 Posso dar condições desse professor tenha sucesso nas atividades e ir testando ele para ele poder evoluir como professor.
-*** Experiências Vicárias
-**** As pessoa podem desenvolver alta ou baixa autoeficácia levando em conta experiências vicárias, ou seja, observando outros.
-*** Persuasão verbal
-**** A autoeficácia é influenciada por palavras de encorajamento .
+***
+*** *Experiências Vicárias*
+* As pessoa podem desenvolver alta ou baixa autoeficácia levando em conta experiências vicárias, ou seja, observando outros.
+***
+*** *Persuasão verbal*
+* A autoeficácia é influenciada por palavras de encorajamento .
 Ex.: Eu dizer o professor do último caso que ele consegue sim dar aula para o grupo que ele ter medo de dar aula.
-*** Resposta fisiológica
-**** A resposta de forma fisiológica a alguma situação externa, é memória do corpo e mente a determinada situação.
+***
+*** *Resposta fisiológica*
+* A resposta de forma fisiológica a alguma situação externa, é memória do corpo e mente a determinada situação.
 Ex.: O professor tenta dar aula para um grupo de kids e eu falo que a aual foi horrivel. Na próxima aula para kids ele pode ficar com medo de errar de novo e dar uma aula ruim.
-** *ALUNOS COM MAIS EXPERIÊNCIAS DE SUCESSO COSTUMAM TER MAIS AUTOEFICÁCIA QUE ALUNOS COM EXPERIÊNCIAS NEGATIVAS FREQUENTES*
+** 
+** ^^*ALUNOS COM MAIS EXPERIÊNCIAS DE SUCESSO COSTUMAM TER MAIS AUTOEFICÁCIA QUE ALUNOS COM EXPERIÊNCIAS NEGATIVAS FREQUENTES*^^
