@@ -4,4 +4,8 @@
 :PROPERTIES:
 :heading: true
 :END:
+***
 ** Done
+:PROPERTIES:
+:heading: true
+:END:
