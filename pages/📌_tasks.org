@@ -1,3 +1,6 @@
 #+TITLE: 📌 Tasks
 
 ** Inbox
+:PROPERTIES:
+:heading: true
+:END:
