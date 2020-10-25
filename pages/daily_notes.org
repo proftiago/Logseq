@@ -1,12 +1,10 @@
 #+TITLE: Daily Notes
 
-** October 7th, 2020
-File: journals/2020_10_07.md
-[[Morning Pages]]
-[[Daily Journal]]{{{[[POMO]] 25}}}
-[[Morning Habits]]
-Sleep log::
-Time slept:: 6 hrs
+** [[Morning Pages]]
+*** [[Daily Journal]]{{{[[POMO]] 25}}}
+**** [[Morning Habits]]
+[[Sleep log]]:
+[[Time slept]]: 6 hrs
 Quality of sleep:: #Good
 Gym Section::
 Group trained:: Chest and triceps
