@@ -5,4 +5,7 @@ SCHEDULED: <2020-10-26 Mon 10:00 .+1d>
 ** TODO Ver número de alunos e atualizar planilhas 
 SCHEDULED: <2020-10-26 Mon 09:00 .+1w>
 ** TODO [[Reunião de Professores]] 
-SCHEDULED: <2020-10-25 Sun 14:30 .+1w>
+:PROPERTIES:
+:done: 1603669562149
+:END:
+SCHEDULED: <2020-11-01 Sun 14:30 .+1w>
