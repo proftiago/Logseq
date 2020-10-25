@@ -1,0 +1,7 @@
+#+TITLE: Atividades Recorrentes
+
+** TODO [[Ligações de Renovação]] 
+SCHEDULED: <2020-10-26 Mon 10:00 .+1d>
+:PROPERTIES:
+:todo: 1603665947761
+:END:
