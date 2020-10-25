@@ -2,6 +2,7 @@
 
 ** TODO [[Ligações de Renovação]] 
 SCHEDULED: <2020-10-26 Mon 10:00 .+1d>
-:PROPERTIES:
-:todo: 1603665947761
-:END:
+** TODO Ver número de alunos e atualizar planilhas 
+SCHEDULED: <2020-10-26 Mon 09:00 .+1w>
+** TODO [[Reunião de Professores]] 
+SCHEDULED: <2020-10-25 Sun 14:30 .+1w>
