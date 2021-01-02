@@ -211,7 +211,8 @@ mark {
   color: var(--yellow);
 }
 .cm-s-default span.cm-number {
-  color: var(--purle);
+  col
+  or: var(--purle);
 }
 .cm-s-default span.cm-variable {
   color: var(--green);
