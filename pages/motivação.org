@@ -1,7 +1,0 @@
-#+TITLE: Motivação
-
-** A motivação pode ser interna ou externa
-*** Externa
-**** Toda forma de atitude e ações para que as pessoas façam o que você quer
-***** [[A hipótese de Lepper, Greene e Nisbertt]]
-******
