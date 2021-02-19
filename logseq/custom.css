@@ -1,22 +1,22 @@
-/* Equilibrium Light by Carlo Abelli */
+/* Black Metal (Venom) by metalelf0 (https://github.com/metalelf0) */
 
 :root {
-  --base00: #f5f0e7;
-  --base01: #e7e2d9;
-  --base02: #d8d4cb;
-  --base03: #73777f;
-  --base04: #5a5f66;
-  --base05: #43474e;
-  --base06: #2c3138;
-  --base07: #181c22;
-  --base08: #d02023;
-  --base09: #bf3e05;
-  --base0A: #9d6f00;
-  --base0B: #637200;
-  --base0C: #007a72;
-  --base0D: #0073b5;
-  --base0E: #4e66b6;
-  --base0F: #c42775;
+  --base00: #000000;
+  --base01: #121212;
+  --base02: #222222;
+  --base03: #333333;
+  --base04: #999999;
+  --base05: #c1c1c1;
+  --base06: #999999;
+  --base07: #c1c1c1;
+  --base08: #5f8787;
+  --base09: #aaaaaa;
+  --base0A: #79241f;
+  --base0B: #f8f7f2;
+  --base0C: #aaaaaa;
+  --base0D: #888888;
+  --base0E: #999999;
+  --base0F: #444444;
   --button-blue: var(--base0C);
   --button-gray-1: var(--base05);
   --button-gray-2: var(--base06);
@@ -222,7 +222,6 @@ mark {
     text-decoration: underline;
     color: white !important;
 }
-
 
 /* calendar */
 
