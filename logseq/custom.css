@@ -1,22 +1,22 @@
-/* Black Metal (Venom) by metalelf0 (https://github.com/metalelf0) */
+/* Nord by arcticicestudio */
 
 :root {
-  --base00: #000000;
-  --base01: #121212;
-  --base02: #222222;
-  --base03: #333333;
-  --base04: #999999;
-  --base05: #c1c1c1;
-  --base06: #999999;
-  --base07: #c1c1c1;
-  --base08: #5f8787;
-  --base09: #aaaaaa;
-  --base0A: #79241f;
-  --base0B: #f8f7f2;
-  --base0C: #aaaaaa;
-  --base0D: #888888;
-  --base0E: #999999;
-  --base0F: #444444;
+  --base00: #2E3440;
+  --base01: #3B4252;
+  --base02: #434C5E;
+  --base03: #4C566A;
+  --base04: #D8DEE9;
+  --base05: #E5E9F0;
+  --base06: #ECEFF4;
+  --base07: #8FBCBB;
+  --base08: #BF616A;
+  --base09: #D08770;
+  --base0A: #EBCB8B;
+  --base0B: #A3BE8C;
+  --base0C: #88C0D0;
+  --base0D: #81A1C1;
+  --base0E: #B48EAD;
+  --base0F: #5E81AC;
   --button-blue: var(--base0C);
   --button-gray-1: var(--base05);
   --button-gray-2: var(--base06);
