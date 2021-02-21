@@ -1,22 +1,22 @@
-/* Atelier Savanna by Bram de Haan (http://atelierbramdehaan.nl) */
+/* Edge Light by cjayross (https://github.com/cjayross) */
 
 :root {
-  --base00: #171c19;
-  --base01: #232a25;
-  --base02: #526057;
-  --base03: #5f6d64;
-  --base04: #78877d;
-  --base05: #87928a;
-  --base06: #dfe7e2;
-  --base07: #ecf4ee;
-  --base08: #b16139;
-  --base09: #9f713c;
-  --base0A: #a07e3b;
-  --base0B: #489963;
-  --base0C: #1c9aa0;
-  --base0D: #478c90;
-  --base0E: #55859b;
-  --base0F: #867469;
+  --base00: #fafafa;
+  --base01: #7c9f4b;
+  --base02: #d69822;
+  --base03: #5e646f;
+  --base04: #6587bf;
+  --base05: #5e646f;
+  --base06: #b870ce;
+  --base07: #5e646f;
+  --base08: #db7070;
+  --base09: #db7070;
+  --base0A: #d69822;
+  --base0B: #7c9f4b;
+  --base0C: #509c93;
+  --base0D: #6587bf;
+  --base0E: #b870ce;
+  --base0F: #509c93;
   --button-blue: var(--base0C);
   --button-gray-1: var(--base05);
   --button-gray-2: var(--base06);
