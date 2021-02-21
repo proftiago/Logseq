@@ -1,22 +1,22 @@
-/* Edge Light by cjayross (https://github.com/cjayross) */
+/* Equilibrium Light by Carlo Abelli */
 
 :root {
-  --base00: #fafafa;
-  --base01: #7c9f4b;
-  --base02: #d69822;
-  --base03: #5e646f;
-  --base04: #6587bf;
-  --base05: #5e646f;
-  --base06: #b870ce;
-  --base07: #5e646f;
-  --base08: #db7070;
-  --base09: #db7070;
-  --base0A: #d69822;
-  --base0B: #7c9f4b;
-  --base0C: #509c93;
-  --base0D: #6587bf;
-  --base0E: #b870ce;
-  --base0F: #509c93;
+  --base00: #f5f0e7;
+  --base01: #e7e2d9;
+  --base02: #d8d4cb;
+  --base03: #73777f;
+  --base04: #5a5f66;
+  --base05: #43474e;
+  --base06: #2c3138;
+  --base07: #181c22;
+  --base08: #d02023;
+  --base09: #bf3e05;
+  --base0A: #9d6f00;
+  --base0B: #637200;
+  --base0C: #007a72;
+  --base0D: #0073b5;
+  --base0E: #4e66b6;
+  --base0F: #c42775;
   --button-blue: var(--base0C);
   --button-gray-1: var(--base05);
   --button-gray-2: var(--base06);
