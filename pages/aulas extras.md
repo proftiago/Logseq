@@ -14,5 +14,5 @@ title: Aulas Extras
 |[[May 21st, 2021]]|[[Híbrido]]|Debate Class|Mauro|16:00
 |[[May 28th, 2021]]|[[Online]]|Cine Espanhol|Sara - Méier|19:00
 |[[Jun 4th, 2021]]|[[Online]]|Yes! Grammar|Mauro - Realengo|19:00
-|[[Jun 11th, 2021]]|[[Híbrido]]|Yes! Gramática|Wendy/Natacha - Realengo|
+|[[Jun 11th, 2021]]|[[Híbrido]]|Yes! Gramática|Wendy/Natacha - Realengo|16:00
 ##
