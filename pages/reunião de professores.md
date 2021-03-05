@@ -14,11 +14,11 @@ title: Reunião de Professores
 :PROPERTIES:
 :heading: true
 :END:
-### Aulas online
+### **Aulas online**
 #### Como devemos prosseguir?
 #### Yes! Player
 #### Aulas extras Online
-### Aulas Híbridas
+### **Aulas Híbridas**
 #### Como vamos prosseguir?
 #### Testes de funcionamento
 #### Segundo semestre
