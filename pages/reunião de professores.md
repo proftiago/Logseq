@@ -2,7 +2,7 @@
 title: Reunião de Professores
 ---
 
-## ABERTURA
+## **ABERTURA**
 :PROPERTIES:
 :heading: true
 :END:
@@ -10,7 +10,7 @@ title: Reunião de Professores
 ### Como estão indo as aulas?
 ### O que vocês estão achando dos alunos em sala?
 ### Número de alunos hoje
-## Tópicos
+## **TÓPICOS**
 :PROPERTIES:
 :heading: true
 :END:
