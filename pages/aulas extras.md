@@ -11,3 +11,4 @@ title: Aulas Extras
 |[[Apr 9th, 2021]]|Híbrido|Yes! Songs|Sarah|
 |[[Apr 16th, 2021]]|Online|Yes! Cooking|Gabriel - Méier
 |[[May 14th, 2021]]|Online|Aulão Kids|Leticia - Realengo
+|/date
