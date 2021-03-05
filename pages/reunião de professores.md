@@ -17,3 +17,7 @@ title: Reunião de Professores
 #### Como devemos prosseguir?
 #### Yes! Player
 #### Aulas extras Online
+### Aulas Híbridas
+#### Como vamos prosseguir?
+#### Testes
+#### Segundo semestre
