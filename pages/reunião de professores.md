@@ -14,10 +14,10 @@ title: Reunião de Professores
 :PROPERTIES:
 :heading: true
 :END:
-### **Aulas online**
-#### Como devemos prosseguir?
-#### Yes! Player
-#### Aulas extras Online
+## **Aulas online**
+### Como devemos prosseguir?
+### Yes! Player
+### Aulas extras Online
 ### **Aulas Híbridas**
 #### Como vamos prosseguir?
 #### Testes de funcionamento
