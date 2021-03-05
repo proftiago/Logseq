@@ -9,6 +9,7 @@ title: Reunião de Professores
 ### Como todos estão?
 ### Como estão indo as aulas?
 ### O que vocês estão achando dos alunos em sala?
+### Número de alunos hoje
 ## Tópicos
 :PROPERTIES:
 :heading: true
@@ -19,5 +20,5 @@ title: Reunião de Professores
 #### Aulas extras Online
 ### Aulas Híbridas
 #### Como vamos prosseguir?
-#### Testes
+#### Testes de funcionamento
 #### Segundo semestre
