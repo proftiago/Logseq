@@ -2,7 +2,7 @@
 title: Aulas Extras
 ---
 
-## 
+##
 |**Data**|**Formato**|**Tópico**|**Professor**|
 |[[Mar 12th, 2021]]|Online|Grammar Class|Gabriel - Méier|
 |[[Mar 19th, 2021]]|Híbrido|Conversation Class|Isabel|
@@ -14,4 +14,5 @@ title: Aulas Extras
 |[[May 21st, 2021]]|Híbrido|Debate Class|Mauro|
 |[[May 28th, 2021]]|Online|Cine Espanhol|Sara - Méier|
 |[[Jun 4th, 2021]]|Online|Yes! Grammar|Mauro - Realengo|
-|[[Jun 11th, 2021]]|Híbrido|Yes! Gramática|Wendy/Natacha - Real
+|[[Jun 11th, 2021]]|Híbrido|Yes! Gramática|Wendy/Natacha - Realengo|
+##
