@@ -10,4 +10,4 @@ title: Aulas Extras
 |[[Apr 2nd, 2021]]|Híbrido|Contos Infantis|Wendy/Natacha|
 |[[Apr 9th, 2021]]|Híbrido|Yes! Songs|Sarah|
 |[[Apr 16th, 2021]]|Online|Yes! Cooking|Gabriel - Méier
-|/date
+|[[May 14th, 2021]]|Online|Aulão Kids|
