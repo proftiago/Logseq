@@ -11,4 +11,3 @@ title: My simple productivity system
 ## Aplicativo de notas escolhido,
 ## Agenda que deve ser usada e como desenvolver sua agenda,
 ## Aplicativo de ToDo list.
-##
