@@ -6,7 +6,7 @@ title: Templates
 :PROPERTIES:
 :heading: true
 :END:
-### **Canal:** [[Matt D'Avella]]
+### **Canal:** ]]
 ### **Data que assisti:**
 ### **Tema do Vídeo:**
-### **O que achei do video:** #Muitobom
+### **O que achei do video:**
