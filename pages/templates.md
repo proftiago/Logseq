@@ -7,6 +7,6 @@ title: Templates
 :heading: true
 :END:
 ### **Canal:** [[Matt D'Avella]]
-### **Data que assisti:** [[Mar 31st, 2021]]
-### **Tema do Vídeo:** [[My simple productivity system]]
+### **Data que assisti:**
+### **Tema do Vídeo:**
 ### **O que achei do video:** #Muitobom
