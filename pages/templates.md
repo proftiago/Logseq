@@ -5,6 +5,7 @@ title: Templates
 ## YouTube
 :PROPERTIES:
 :heading: true
+:template: Youtube
 :END:
 ### **Canal:**
 ### **Data que assisti:**
