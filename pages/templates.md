@@ -6,7 +6,7 @@ title: Templates
 :PROPERTIES:
 :heading: true
 :END:
-### **Canal:** ]]
+### **Canal:**
 ### **Data que assisti:**
 ### **Tema do Vídeo:**
-### **O que achei do video:**
+### **O que achei do video:** #Muitobom
