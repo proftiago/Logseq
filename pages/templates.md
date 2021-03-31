@@ -9,4 +9,4 @@ title: Templates
 ### **Canal:**
 ### **Data que assisti:**
 ### **Tema do Vídeo:**
-### **O que achei do video:** #Muitobom
+### **O que achei do video:**
