@@ -17,6 +17,7 @@ title: Reunião de Professores
 ## **TÓPICOS**
 :PROPERTIES:
 :heading: true
+:background_color: #533e7d
 :END:
 ## **Aulas online**
 ### _Como devemos prosseguir;_
