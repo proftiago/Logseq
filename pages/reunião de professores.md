@@ -5,6 +5,7 @@ title: Reunião de Professores
 ## **ABERTURA**
 :PROPERTIES:
 :heading: true
+:background_color: #533e7d
 :END:
 ### Como todos estão;
 #### **Todos estão bem**
