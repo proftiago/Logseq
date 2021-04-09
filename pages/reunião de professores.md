@@ -22,8 +22,9 @@ title: Reunião de Professores
 ### _Como devemos prosseguir;_
 #### **As aulas seguem online no primeiro semestre.**
 #### **Esperaremos pelas autoridades para definirmos a volta às aulas**
-### Yes! Player;
+### _Yes! Player;_
 #### **O game se torna opcional como uma ajuda para mantermos as nossas aulas animadas.**
 #### **Não há a obrigatoriedade caso a turma não se sinta à vontade com o formato.**
 #### **Ele também pode ser adaptado para cada caso de turma.**
-### Aulas extras Online;
+### _Aulas extras Online;_
+#### **Como continuaremos com nossas aulas online, usaremos as video aulas no portal do aluno para podermos**
