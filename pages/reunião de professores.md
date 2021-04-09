@@ -20,8 +20,8 @@ title: Reunião de Professores
 :END:
 ## **Aulas online**
 ### Como devemos prosseguir;
-### Yes! Player
-### Aulas extras Online
+### Yes! Player;
+### Aulas extras Online;
 ## **Aulas Híbridas**
 ### Como vamos prosseguir?
 ### Testes de funcionamento
