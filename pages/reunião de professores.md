@@ -35,4 +35,6 @@ title: Reunião de Professores
 :heading: true
 :background_color: #793e3e
 :END:
-### **Incentivo a todos **
+### **Todos devem estar atentos as dificuldades dos alunos**
+### **Passar a coordenação todos os casos de alunos que estiverem faltando mais de duas aulas**
+### **Professores devem **
