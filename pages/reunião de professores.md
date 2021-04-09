@@ -8,7 +8,7 @@ title: Reunião de Professores
 :END:
 ### Como todos estão?
 ### Como foram as férias de todos?
-### O que vocês estão achando dos alunos em sala?
+### Opinião de
 ### Número de alunos hoje
 ## **TÓPICOS**
 :PROPERTIES:
