@@ -7,7 +7,9 @@ title: Reunião de Professores
 :heading: true
 :END:
 ### Como todos estão;
+#### **Todos estão bem**
 ### Como foram as férias de todos;
+#### **Devido a pandemia todos permaneceram em suas casas**
 ### Opinião de todos sobre o último semestre;
 ### Número de alunos hoje;
 ### Como estamos na data de hoje nas renovações.
@@ -16,7 +18,7 @@ title: Reunião de Professores
 :heading: true
 :END:
 ## **Aulas online**
-### Como devemos prosseguir?
+### Como devemos prosseguir;
 ### Yes! Player
 ### Aulas extras Online
 ## **Aulas Híbridas**
