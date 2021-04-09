@@ -38,4 +38,4 @@ title: Reunião de Professores
 ### **Todos devem estar atentos as dificuldades dos alunos**
 ### **Passar a coordenação todos os casos de alunos que estiverem faltando mais de duas aulas**
 ### **Professores devem preparar e usar o material proposto pela unidade em todas as aulas**
-###
+### **Marcação do nosso próximo encontro**
