@@ -19,7 +19,7 @@ title: Reunião de Professores
 :heading: true
 :END:
 ## **Aulas online**
-### Como devemos prosseguir;
+### _Como devemos prosseguir;_
 #### **As aulas seguem online no primeiro semestre.**
 #### **Esperaremos pelas autoridades para definirmos a volta às aulas**
 ### Yes! Player;
