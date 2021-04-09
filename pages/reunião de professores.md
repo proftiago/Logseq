@@ -33,4 +33,5 @@ title: Reunião de Professores
 ##
 :PROPERTIES:
 :background_color: #793e3e
+:heading: true
 :END:
