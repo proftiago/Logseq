@@ -20,5 +20,7 @@ title: Reunião de Professores
 :END:
 ## **Aulas online**
 ### Como devemos prosseguir;
+#### **As aulas seguem online no primeiro semestre.**
+####
 ### Yes! Player;
 ### Aulas extras Online;
