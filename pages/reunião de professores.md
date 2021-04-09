@@ -6,10 +6,11 @@ title: Reunião de Professores
 :PROPERTIES:
 :heading: true
 :END:
-### Como todos estão?
-### Como foram as férias de todos?
-### Opinião de
-### Número de alunos hoje
+### Como todos estão;
+### Como foram as férias de todos;
+### Opinião de todos sobre o último semestre;
+### Número de alunos hoje;
+### Como estamos na data de hoje nas renovações.
 ## **TÓPICOS**
 :PROPERTIES:
 :heading: true
