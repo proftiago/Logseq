@@ -30,3 +30,7 @@ title: Reunião de Professores
 #### **Ele também pode ser adaptado para cada caso de turma.**
 ### _Aulas extras Online;_
 #### **Como continuaremos com nossas aulas online, usaremos as video aulas no portal do aluno como forma de reforço e caso algum aluno mesmo assim continue com dúvidas o caso deve ser passado para o Coordenador**
+##
+:PROPERTIES:
+:background_color: #793e3e
+:END:
