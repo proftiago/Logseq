@@ -2,7 +2,7 @@
 title: Aulas particulares
 ---
 
-## Inicio [[Apr 25th, 2021]] até 
+## Inicio [[Apr 25th, 2021]] até [[May 2nd, 2021]] 
 :PROPERTIES:
 :heading: true
 :END:
