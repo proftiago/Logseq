@@ -6,7 +6,11 @@ title: Aulas particulares
 :PROPERTIES:
 :heading: true
 :END:
-### TODO Montar o primeiro anuncio para whatsapp e
+### TODO Montar o primeiro anuncio para whatsapp e facebook
 :PROPERTIES:
 :todo: 1619378147197
+:END:
+### TODO 
+:PROPERTIES:
+:todo: 1619378178180
 :END:
