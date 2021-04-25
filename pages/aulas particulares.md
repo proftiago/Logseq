@@ -12,6 +12,18 @@ title: Aulas particulares
 :todo: 1619378291891
 :done: 1619378290705
 :END:
+#### TODO Primeiro fazer um teste
+:PROPERTIES:
+:todo: 1619379472689
+:END:
+#### TODO  Montar um oficial
+:PROPERTIES:
+:todo: 1619379488463
+:END:
+#### TODO Divulgar nas redes sociais
+:PROPERTIES:
+:todo: 1619379490682
+:END:
 ### TODO Ver material para alunos mais adiantados.
 :PROPERTIES:
 :todo: 1619378178180
