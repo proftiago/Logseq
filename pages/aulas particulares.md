@@ -28,10 +28,26 @@ title: Aulas particulares
 :PROPERTIES:
 :todo: 1619378178180
 :END:
+#### TODO Escolher material e valor
+:PROPERTIES:
+:todo: 1619379518723
+:END:
+#### TODO Checar possibilidade de slides para alunos poderem ter uma parte visual durante as aulas
+:PROPERTIES:
+:todo: 1619379524683
+:END:
 ### TODO Montar forms para cadastro de novos alunos.
 :PROPERTIES:
 :todo: 1619379447126
 :done: 1619379445084
+:END:
+#### TODO Montar o forms
+:PROPERTIES:
+:todo: 1619379568040
+:END:
+#### TODO Testar com algumas pessoas
+:PROPERTIES:
+:todo: 1619379578215
 :END:
 ### TODO Montar programação e precificação
 :PROPERTIES:
