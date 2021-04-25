@@ -66,3 +66,12 @@ title: Aulas particulares
 :PROPERTIES:
 :todo: 1619380366228
 :END:
+### TODO Organizar um app para poder gerenciar os alunos
+:PROPERTIES:
+:todo: 1619380397470
+:END:
+### TODO Ver formas de avaliação dos alunos
+:PROPERTIES:
+:todo: 1619380407740
+:END:
+###
