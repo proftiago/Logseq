@@ -54,7 +54,15 @@ title: Aulas particulares
 :PROPERTIES:
 :todo: 1619378253695
 :END:
-## Desenvolvimento de Projeto [[May 3rd, 2021]] até /date
+## Desenvolvimento de Projeto [[May 3rd, 2021]] até [[May 9th, 2021]]
 :PROPERTIES:
 :heading: true
+:END:
+### TODO Desenvolver Newsletter e organização para escrita dele
+:PROPERTIES:
+:todo: 1619380359760
+:END:
+### TODO  Ver horários para aulas online
+:PROPERTIES:
+:todo: 1619380366228
 :END:
