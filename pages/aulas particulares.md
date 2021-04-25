@@ -54,7 +54,7 @@ title: Aulas particulares
 :PROPERTIES:
 :todo: 1619378253695
 :END:
-## Desenvolvimento de Projeto
+## Desenvolvimento de Projeto [[May 3rd, 2021]] até /date
 :PROPERTIES:
 :heading: true
 :END:
