@@ -10,7 +10,11 @@ title: Aulas particulares
 :PROPERTIES:
 :todo: 1619378147197
 :END:
-### TODO 
+### TODO Ver material para alunos mais adiantados
 :PROPERTIES:
 :todo: 1619378178180
+:END:
+### TODO Montar forms para cadastro de novos alunos.
+:PROPERTIES:
+:todo: 1619378211180
 :END:
