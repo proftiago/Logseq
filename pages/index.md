@@ -19,7 +19,7 @@ title: Index
 #### #nivelamento
 #### #agendamento
 #### #reunião
-## [[Templates]]
+## Templates
 :PROPERTIES:
 :heading: true
 :background_color: #497d46
