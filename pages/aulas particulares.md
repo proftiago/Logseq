@@ -46,9 +46,10 @@ title: Aulas particulares
 :todo: 1619379568040
 :done: 1619379891862
 :END:
-#### TODO Testar com algumas pessoas
+#### DONE Testar com algumas pessoas
 :PROPERTIES:
 :todo: 1619379578215
+:done: 1620567387512
 :END:
 ### TODO Montar programação e precificação
 :PROPERTIES:
