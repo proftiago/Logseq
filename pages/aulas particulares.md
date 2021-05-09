@@ -36,10 +36,10 @@ title: Aulas particulares
 :PROPERTIES:
 :todo: 1619379524683
 :END:
-### TODO Montar forms para cadastro de novos alunos.
+### DONE Montar forms para cadastro de novos alunos.
 :PROPERTIES:
 :todo: 1619379447126
-:done: 1619379445084
+:done: 1620567391648
 :END:
 #### DONE Montar o forms [[Apr 25th, 2021]] 
 :PROPERTIES:
