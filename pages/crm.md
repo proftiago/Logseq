@@ -2,9 +2,7 @@
 title: CRM
 ---
 
-### Unidade:
-:PROPERTIES:
-:template: CRM
-:END:
-### Turma:
-### Telefone:
+	- Unidade:
+	  template:: CRM
+	- Turma:
+	- Telefone:

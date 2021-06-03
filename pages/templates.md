@@ -2,12 +2,10 @@
 title: Templates
 ---
 
-## YouTube
-:PROPERTIES:
-:heading: true
-:template: Youtube
-:END:
-### **Canal:**
-### **Data que assisti:**
-### **Tema do Vídeo:**
-### **O que achei do video:**
+- YouTube
+  heading:: true
+  template:: Youtube
+	- **Canal:**
+	- **Data que assisti:**
+	- **Tema do Vídeo:**
+	- **O que achei do video:**

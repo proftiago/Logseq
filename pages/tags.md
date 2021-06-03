@@ -2,8 +2,8 @@
 title: Tags
 ---
 
-## #Excelente
-## #Muitobom
-## #Bom
-## #Regular
-## #Ruim
+- #Excelente
+- #Muitobom
+- #Bom
+- #Regular
+- #Ruim
