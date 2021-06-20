@@ -1,4 +1,5 @@
--
+#estudopessoal
+
 - **[possivelmente: Jeová Exalta; ou: Jeová Solta [provavelmente da madre]].**
 - 1. Benjamita que se juntou a Davi quando este se encontrava em Ziclague. Era um dos poderosos de Davi. — 1Cr 12:1-4.
 - 2. Um dos filhos de Gade que se ajuntaram a Davi “no lugar de difícil acesso, no ermo”, quando Davi era refugiado diante de Saul. Ele era o quinto dentre estes “homens poderosos, valentes .  . . cujas faces eram faces de leões, e eles eram iguais às gazelas nos montes em velocidade”. Dizia-se a respeito destes cabeças gaditas do exército de Davi: “O mínimo era igual a cem e o maior igual a mil.” Eles “atravessaram o Jordão no primeiro mês quando transbordava por todas as suas ribanceiras, e então puseram em fuga todos os das baixadas ao leste e ao oeste”. — 1Cr 12:8-15.
