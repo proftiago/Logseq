@@ -1,1 +1,1 @@
-- Nos conhecemos no ano de 201
+- Nos conhecemos no ano de 2017. E desde então somos marido e mulher.
