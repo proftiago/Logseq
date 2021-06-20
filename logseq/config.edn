@@ -80,4 +80,5 @@
  ;; Rose is red, violet's blue. Life's ordered: Org assists you.
  :macros {}
    :ui/show-brackets? false
-   :markdown/version 2}
+   :markdown/version 2
+   :editor/logical-outdenting? true}
