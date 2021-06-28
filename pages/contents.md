@@ -1,1 +1,1 @@
-- {{query  }}
+- {{query [[O que estou pensando agora?]] }}
