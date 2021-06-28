@@ -1,3 +1,2 @@
 - {{query [[O que estou pensando agora?]] }}
-- {{query #realengo}}
--
+- {{query [[#realengo]]}}
