@@ -81,4 +81,5 @@
  :macros {}
    :ui/show-brackets? false
    :markdown/version 2
-   :editor/logical-outdenting? true}
+   :editor/logical-outdenting? true
+   :feature/enable-block-timestamps? true}
