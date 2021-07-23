@@ -82,4 +82,5 @@
    :ui/show-brackets? false
    :markdown/version 2
    :editor/logical-outdenting? true
-   :feature/enable-block-timestamps? true}
+   :feature/enable-block-timestamps? true
+   :graph/settings {:journal? true, :builtin-pages? true}}
