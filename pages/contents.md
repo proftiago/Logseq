@@ -1,5 +1,5 @@
 - {{query [[O que estou pensando agora?]] }}
-  query-table:: false
-  created-at:: 1626461833300
-  updated-at:: 1626461833300
+  query-table:: true
+  created-at:: 1627050695984
+  updated-at:: 1627050695984
 -
