@@ -6,6 +6,6 @@
   created-at:: 1627053404306
   updated-at:: 1627053404306
   ---
-- {{query }}
-  created-at:: 1627053471183
-  updated-at:: 1627053471183
+- {{query [[Idéias]] }}
+  created-at:: 1627053482631
+  updated-at:: 1627053482631
