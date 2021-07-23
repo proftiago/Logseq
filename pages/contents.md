@@ -7,5 +7,6 @@
   updated-at:: 1627053404306
   ---
 - {{query [[Idéias]] }}
-  created-at:: 1627053482631
-  updated-at:: 1627053482631
+  created-at:: 1627053490950
+  updated-at:: 1627053490950
+  query-table:: true
