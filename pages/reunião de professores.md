@@ -1,5 +1,6 @@
-created-at:: 1627050524768
-updated-at:: 1627050524768
+created-at:: 1627050529205
+updated-at:: 1627050529205
+collapsed:: true
 ---
 title: Reunião de Professores
 ---
