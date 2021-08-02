@@ -83,4 +83,4 @@
    :markdown/version 2
    :editor/logical-outdenting? true
    :feature/enable-block-timestamps? true
-   :graph/settings {:journal? true, :builtin-pages? true}}
+   :graph/settings {:journal? true, :builtin-pages? true, :orphan-pages? true}}
